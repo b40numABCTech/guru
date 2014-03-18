@@ -13,12 +13,3 @@ Guru Num
   
 ให้เป็น private static final String XXX = "select....."
 
-
-MySQL
------
-
-* Search
-
-```sh
-use "like %SOMETHING%" instead of "="
-```
