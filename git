@@ -1,7 +1,0 @@
-Git
-===
-Collection of git command that we prefer.
-
-```sh
-$ git remote show origin
-```
