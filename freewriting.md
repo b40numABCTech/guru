@@ -1,5 +1,8 @@
- Guru NUM
- ========
+Free Writing
+============
+
+Guru Num
+--------
  
  * ต่อไปเวลาเขียน code ที่ต้อง concat string ถ้า เป็น method ที่เป็น thread safe ช่วยใช้ StringBuilder ส่วนที่ไม่ใช่ thread safe ใช้ StringBuffer ด้วยครับ อย่าใช้ String เฉยๆ ถ้าข้องใจดูตามลิงค์ด้านหลังนี้ครับ
  
