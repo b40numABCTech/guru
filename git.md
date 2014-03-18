@@ -1,7 +1,7 @@
 Git
 ===
 
-Collection o git command that we perfer.
+Git command collection which we perfer.
 
 * prune : sync local branch as remote branch
 
