@@ -1,7 +1,7 @@
 Sonar
 =====
 
-*Preserve Stack Trace
+* Preserve Stack Trace
 
 ```sh
 try
