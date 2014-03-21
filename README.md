@@ -11,6 +11,10 @@ Subject
 * Free Writing: http://github.com/phantipa/guru/blob/master/freewriting.md#free-writing
 * Sonar: http://github.com/phantipa/guru/blob/master/sonar.md#sonar
 
+Tool
+----
+* IntelliJ: http://github.com/phantipa/guru/blob/master/Intellij.md#intellij-idea
+
 Online Editer
 -------------
 
