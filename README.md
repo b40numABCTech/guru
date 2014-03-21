@@ -11,11 +11,11 @@ Subject
 * Free Writing: http://github.com/phantipa/guru/blob/master/freewriting.md#free-writing
 * Sonar: http://github.com/phantipa/guru/blob/master/sonar.md#sonar
 
-Tool
-----
+Tool: Java IDE
+--------------
 * IntelliJ: http://github.com/phantipa/guru/blob/master/Intellij.md#intellij-idea
 
-Online Editer
--------------
+Online Editer: .md
+------------------
 
-http://dillinger.io/
+* http://dillinger.io/
