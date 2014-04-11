@@ -1,8 +1,10 @@
 Mockito
 =======
 
-Only void methods can doNothing()!
-Example of correct use of doNothing():
+* doNothing() : only void methods 
+
+```sh
     doNothing().
     doThrow(new RuntimeException())
     .when(mock).someVoidMethod();
+```
