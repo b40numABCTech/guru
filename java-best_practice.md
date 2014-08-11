@@ -6,12 +6,16 @@ Java-best practice
 ```sh
 String[] s = new String[] {"a", "b", "c"};
 String joined = StringUtils.join(s, null);
+
+or
+
+new StringBuilder("a").append("b").append("c").toString()
 ```
 
-The above is faster than using StringBuilder eg.
+The above is faster than using String eg.
 
 ```sh
-new StringBuilder("a").append("b").append("c").toString()
+"a"+"b"+"c"
 ```
 
 
