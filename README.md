@@ -11,6 +11,7 @@ Subject
 * Free Writing: http://github.com/phantipa/guru/blob/master/freewriting.md#free-writing
 * Sonar: http://github.com/phantipa/guru/blob/master/sonar.md#sonar
 * Mockito: https://github.com/phantipa/guru/blob/master/mockito.md#mockito
+* Java: https://github.com/phantipa/guru/blob/master/java-best_practice.md
 
 Tool: Java IDE
 --------------
